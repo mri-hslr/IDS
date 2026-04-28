@@ -1,2 +1,0 @@
-#!/bin/bin
-ls -la
